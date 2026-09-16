@@ -11,6 +11,10 @@ We are building 3 views of a mobile first responsive website taking airbnb as a 
 ## CODE FORMATING
 Dont including all tailwind properties in a single line of code as this creates a huge horizontal scrolling , bring it to the next line if needed to make it easy to udnerstand and maintain.
 
+## EXECUTION
+Based on this context md and the png files: airbnb-home, airbnb-catalog and airbnb-roomdetailcreate the views based on the details and on the images as a reference to improve execution accuracy
+
+
 [VIEWS]
 
 **MOBILE FIRST**
